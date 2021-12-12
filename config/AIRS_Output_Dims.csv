@@ -1,0 +1,9 @@
+﻿DimName,DimLen
+GeoTrack,45
+GeoXTrack,30
+AIRSTrack,3
+AIRSXTrack,3
+Cloud,2
+StdPressureLev,28
+H2OPressureLev,15
+XtraPressureLev,100
