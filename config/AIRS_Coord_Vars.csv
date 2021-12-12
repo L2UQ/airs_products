@@ -1,0 +1,11 @@
+﻿VarName,Dims,Type,Units
+StdPressureLev,1,float,hPa
+XtraPressureLev,1,float,hPa
+H2OPressureLev,1,float,hPa
+Latitude,2,double,Degrees_north
+Longitude,2,double,Degrees_east
+Time,2,double,Seconds since 1993-01-01 00:00:00
+topog,2,float,m
+landFrac,2,float,None
+latAIRS,4,float,Degrees_north
+lonAIRS,4,float,Degrees_east
