@@ -1,4 +1,4 @@
-## airs_product
+## airs_products
 
 Scripts for downloading and processing public AIRS products
 
@@ -15,10 +15,10 @@ Scripts for downloading and processing public AIRS products
     - Navigate to the `airs_products/data` directory and download a list of AIRS support products  
 ```
 wget --load-cookies ~/.urs_cookies --save-cookies ~/.urs_cookies --auth-no-challenge=on --keep-session-cookies -i MAGIC_Ascending_201308_V7_wget.txt
-```
-The products total about 350 MB in size.
+```  
+The products total about 350 MB in size.  
     - Navigate to the `airs_products` directory and run the Python script to extract the variables of interest
 ```
 python airs_l2_proc_magic.py
-```
+```  
 The script will produce a NetCDF file with a subset of variables for each of the downloaded products. The above steps can be repeated for the descending granules by using `MAGIC_Ascending_201308_V7_wget.txt` and by changing the line reading `MAGIC_Ascending_201308_V7.csv` in the Python script.

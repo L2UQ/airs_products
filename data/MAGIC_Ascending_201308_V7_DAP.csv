@@ -1,0 +1,17 @@
+Mode,Year,Month,Day,Granule,RefLon,RefLat,MinDist,L2File
+Ascending,2013,8,1,228,-140.0,25.0,886.374442942,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/213/AIRS.2013.08.01.228.L2.RetSup_IR.v7.0.1.0.G20107181434.hdf
+Ascending,2013,8,2,235,-140.0,25.0,1357.22727503,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/214/AIRS.2013.08.02.235.L2.RetSup_IR.v7.0.1.0.G20107192722.hdf
+Ascending,2013,8,3,226,-140.0,25.0,954.865390775,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/215/AIRS.2013.08.03.226.L2.RetSup_IR.v7.0.1.0.G20107203104.hdf
+Ascending,2013,8,4,233,-140.0,25.0,1131.8355392,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/216/AIRS.2013.08.04.233.L2.RetSup_IR.v7.0.1.0.G20107214220.hdf
+Ascending,2013,8,5,224,-140.0,25.0,1105.19609399,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/217/AIRS.2013.08.05.224.L2.RetSup_IR.v7.0.1.0.G20107224848.hdf
+Ascending,2013,8,6,231,-140.0,25.0,961.593220982,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/218/AIRS.2013.08.06.231.L2.RetSup_IR.v7.0.1.0.G20108000126.hdf
+Ascending,2013,8,7,222,-140.0,25.0,1307.21961059,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/219/AIRS.2013.08.07.222.L2.RetSup_IR.v7.0.1.0.G20108010632.hdf
+Ascending,2013,8,8,229,-140.0,25.0,876.674892657,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/220/AIRS.2013.08.08.229.L2.RetSup_IR.v7.0.1.0.G20108021233.hdf
+Ascending,2013,8,9,236,-140.0,25.0,1480.89391339,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/221/AIRS.2013.08.09.236.L2.RetSup_IR.v7.0.1.0.G20108032211.hdf
+Ascending,2013,8,10,227,-140.0,25.0,897.99966203,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/222/AIRS.2013.08.10.227.L2.RetSup_IR.v7.0.1.0.G20108042735.hdf
+Ascending,2013,8,11,234,-140.0,25.0,1236.57261246,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/223/AIRS.2013.08.11.234.L2.RetSup_IR.v7.0.1.0.G20108053536.hdf
+Ascending,2013,8,12,225,-140.0,25.0,1016.30381638,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/224/AIRS.2013.08.12.225.L2.RetSup_IR.v7.0.1.0.G20108063902.hdf
+Ascending,2013,8,13,232,-140.0,25.0,1036.85070422,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2RET.7.0/2013/225/AIRS.2013.08.13.232.L2.RetStd_IR.v7.0.1.0.G20108074608.hdf
+Ascending,2013,8,14,223,-140.0,25.0,1200.78292847,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2RET.7.0/2013/226/AIRS.2013.08.14.223.L2.RetStd_IR.v7.0.1.0.G20108084958.hdf
+Ascending,2013,8,15,230,-140.0,25.0,908.754531084,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2RET.7.0/2013/227/AIRS.2013.08.15.230.L2.RetStd_IR.v7.0.1.0.G20108095606.hdf
+Ascending,2013,8,16,221,-140.0,25.0,1423.93794833,https://airsl2.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aqua_AIRS_Level2/AIRS2RET.7.0/2013/228/AIRS.2013.08.16.221.L2.RetStd_IR.v7.0.1.0.G20108110138.hdf

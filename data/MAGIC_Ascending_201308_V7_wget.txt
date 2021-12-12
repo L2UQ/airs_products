@@ -1,0 +1,16 @@
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/213/AIRS.2013.08.01.228.L2.RetSup_IR.v7.0.1.0.G20107181434.hdf
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/214/AIRS.2013.08.02.235.L2.RetSup_IR.v7.0.1.0.G20107192722.hdf
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/215/AIRS.2013.08.03.226.L2.RetSup_IR.v7.0.1.0.G20107203104.hdf
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/216/AIRS.2013.08.04.233.L2.RetSup_IR.v7.0.1.0.G20107214220.hdf
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/217/AIRS.2013.08.05.224.L2.RetSup_IR.v7.0.1.0.G20107224848.hdf
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/218/AIRS.2013.08.06.231.L2.RetSup_IR.v7.0.1.0.G20108000126.hdf
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/219/AIRS.2013.08.07.222.L2.RetSup_IR.v7.0.1.0.G20108010632.hdf
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/220/AIRS.2013.08.08.229.L2.RetSup_IR.v7.0.1.0.G20108021233.hdf
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/221/AIRS.2013.08.09.236.L2.RetSup_IR.v7.0.1.0.G20108032211.hdf
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/222/AIRS.2013.08.10.227.L2.RetSup_IR.v7.0.1.0.G20108042735.hdf
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/223/AIRS.2013.08.11.234.L2.RetSup_IR.v7.0.1.0.G20108053536.hdf
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/224/AIRS.2013.08.12.225.L2.RetSup_IR.v7.0.1.0.G20108063902.hdf
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/225/AIRS.2013.08.13.232.L2.RetSup_IR.v7.0.1.0.G20108074608.hdf
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/226/AIRS.2013.08.14.223.L2.RetSup_IR.v7.0.1.0.G20108084958.hdf
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/227/AIRS.2013.08.15.230.L2.RetSup_IR.v7.0.1.0.G20108095606.hdf
+https://airsl2.gesdisc.eosdis.nasa.gov/data/Aqua_AIRS_Level2/AIRS2SUP.7.0/2013/228/AIRS.2013.08.16.221.L2.RetSup_IR.v7.0.1.0.G20108110138.hdf
