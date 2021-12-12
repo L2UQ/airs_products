@@ -12,7 +12,7 @@ Scripts for downloading and processing public AIRS products
 
 ### AIRS V7 Products
 
-The AIRS Version 7 Level 2 support product includes retrievals of several geophysical quantities, including vertical profiles of temperature, humidity, and clouds. There are two options for accessing and subsetting the data products illustrated here. The first method uses the OPenDAP protocol to access the data on the remote server and subset variables, with a local file output that is about 10% of the size of the original files. The second method uses wget to download the full data product files, and a Python script then operates on the local copies. The OPenDAP approach is somewhat time consuming and requires additional configuration but yields a smaller final data volume locally.
+The [AIRS Version 7 Level 2 support product](https://disc.gsfc.nasa.gov/datasets/AIRS2SUP_7.0/summary?keywords=AIRS) includes retrievals of several geophysical quantities, including vertical profiles of temperature, humidity, and clouds. There are two options for accessing and subsetting the data products illustrated here. The first method uses the OPenDAP protocol to access the data on the remote server and subset variables, with a local file output that is about 10% of the size of the original files. The second method uses wget to download the full data product files, and a Python script then operates on the local copies. The OPenDAP approach is somewhat time consuming and requires additional configuration but yields a smaller final data volume locally.
 
 1. OPenDAP
     - Set up the .dodsrc file as noted above
